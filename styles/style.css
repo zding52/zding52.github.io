@@ -1,13 +1,11 @@
 body {
-  color: hotpink;
+  color: white;
   background-color: lightblue;
 }
 
 
 h1 {
-   a {
-     color: hotpink;
-   }
+   
   text-align: center;
 }
 
