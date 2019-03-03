@@ -5,7 +5,9 @@ body {
 
 
 h1 {
-  color: hotpink;
+   a {
+     color: hotpink;
+   }
   text-align: center;
 }
 
