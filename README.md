@@ -14,3 +14,7 @@ Tried very simple html and css.
 # Day2, 3/3/2019
 Changed UI(not finish yet)  
 Want to add a search bar, and clearly divide the web in two section
+# Day4，3/5/2019
+Learned some basic python cralwer, still confused about connection between front end and back end  
+Decide to know more about Javascript and how to link the front and backend  
+Also need to know Django, and what's the difference between a frame and directly using html.
